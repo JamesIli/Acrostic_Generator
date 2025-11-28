@@ -1,2 +1,2 @@
 # Acrostic_Generator
-University project
+A uni project where via use of lists in c acrostics are being generated
